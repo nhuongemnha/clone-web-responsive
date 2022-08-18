@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/clone-web-responsive/static/css/main.92ba243a.css",
+    "main.js": "/clone-web-responsive/static/js/main.af6e8f92.js",
+    "static/js/787.3e7f8ee1.chunk.js": "/clone-web-responsive/static/js/787.3e7f8ee1.chunk.js",
+    "static/media/Rectangle1.png": "/clone-web-responsive/static/media/Rectangle1.487645896453bc00f093.png",
+    "static/media/Rectangle3.png": "/clone-web-responsive/static/media/Rectangle3.d9c447e2be96ca48d650.png",
+    "static/media/Rectangle5.png": "/clone-web-responsive/static/media/Rectangle5.343b21fbd55d233e5316.png",
+    "static/media/Team4.png": "/clone-web-responsive/static/media/Team4.3439d88b2eb59582925b.png",
+    "static/media/Team1.png": "/clone-web-responsive/static/media/Team1.ed1669d3de76d95bd416.png",
+    "static/media/Rectangle4.png": "/clone-web-responsive/static/media/Rectangle4.9ccb33d90c92e469d551.png",
+    "static/media/Team2.png": "/clone-web-responsive/static/media/Team2.7ececfc9444cdafd1802.png",
+    "static/media/Rectangle6.png": "/clone-web-responsive/static/media/Rectangle6.e4c4cd8d012d260f6f7e.png",
+    "static/media/Team3.png": "/clone-web-responsive/static/media/Team3.7e231b7798c3e9505453.png",
+    "static/media/Rectangle2.png": "/clone-web-responsive/static/media/Rectangle2.8538a8ae8d17463c8c0e.png",
+    "index.html": "/clone-web-responsive/index.html",
+    "main.92ba243a.css.map": "/clone-web-responsive/static/css/main.92ba243a.css.map",
+    "main.af6e8f92.js.map": "/clone-web-responsive/static/js/main.af6e8f92.js.map",
+    "787.3e7f8ee1.chunk.js.map": "/clone-web-responsive/static/js/787.3e7f8ee1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92ba243a.css",
+    "static/js/main.af6e8f92.js"
+  ]
+}
